@@ -1,0 +1,202 @@
+@media(max-width: 1200px){
+
+.filtering-area .filter-icon ul li a {
+    margin-left: 5px;
+}
+.offer-content .offer-right-text {
+    padding-left: 63px;
+}
+.offer-content .offer-left-icon {
+    padding-left: 0px;
+}
+.header-bottom .login {
+    padding: 32px 16px;
+}
+}
+@media(max-width: 991px){
+	.header-bottom .nav-area ul li a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.navbar-collapse {
+    background: #474c47;
+    margin-bottom:73px;
+}
+.header-bottom .search-form {
+    font-size: 14px;
+    padding: 5px 28px;
+    background:transparent;
+
+}
+.header-bottom .login {
+    padding: 5px 29px;
+    background: transparent;
+}
+.header-bottom .login::after {
+left:999999px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#fff;
+}
+
+.update-items ul li a {
+    margin-right: 7px;
+ 
+}
+.filtering-area .col-md-6{
+padding-right: 0px;
+padding-left: 4px;
+}
+.sell-country .select-wrapper .form-control {
+
+    font-size: 12px;
+}
+.show-map .submit-button .form-control {
+    font-size: 12px;
+}
+.sell-country .select-option {
+    right: 11px;
+}
+.filtering-area .filter-icon span {
+    padding-left: 0;
+    font-size: 12px;
+
+}
+.filtering-area .filter-icon ul li a {
+ 
+    height: 29px;
+    width: 29px;
+    font-size: 12px;
+
+}
+.offer-tab-icon li a {
+    width: 90px;
+    height: 90px;
+ 
+}
+.click-search .form-control {
+    width: 50%;
+}
+.click-search span i {
+    top: 86px;
+    right: 1px;
+    padding: 5.3px 12px;
+
+}
+.click-search .form-control {
+    top: 85px;
+    width: 40%;
+    right: 1px;
+}
+.form-control {
+    height: calc(1.5em + .75rem + -7px);
+    
+   
+}
+}
+@media(max-width: 767px){
+	.filter-icon ul {
+    margin-top: 5px;
+}
+.offer-head {
+ padding-top: 33px;
+padding-bottom: 10px;
+
+
+}
+.offer-tab-icon li a {
+    width: 95px;
+    height: 95px;
+}
+.offer-area {
+    padding-bottom: 62px;
+}
+.slider-form h2 {
+    font-size: 28px;
+    }
+ .offer-tab-icon li a {
+    width: 75px;
+    height: 75px;
+}
+.offer-tab-icon li{
+    padding: 5px;
+}
+.offer-tab-icon ul li a i {
+    padding-top: 13px;
+}
+.footer-area {
+    padding-left: 30px;
+}
+.filtering-area .filter-icon {
+    margin-bottom: 49px;
+}
+.click-search .form-control {
+    width: 50%;
+}
+.click-search span i {
+    top: 86px;
+    right: 1px;
+    padding: 5.3px 12px;
+
+}
+.click-search .form-control {
+    top: 85px;
+    width: 60%;
+    right: 1px;
+}
+.form-control {
+    height: calc(1.5em + .75rem + -7px);
+    
+   
+}
+}
+@media(max-width: 480px){
+	.offer-tab-icon ul li a i {
+    font-size: 20px;
+}
+.offer-tab-icon li a {
+    width: 50px;
+    height: 50px;
+}
+.offer-tab-icon li {
+    padding: 3px;
+}
+.footer-subscriber-button .subscribe-button {
+ width: 72px;
+    font-size: 12px;
+    height:40px;
+    top:12px;
+}
+.footer-subscriber-button .form-control {
+    padding-right: 84px;
+    padding-left:34px;
+
+}
+.footer-subscriber-button span i {
+  
+    font-size: 17px;
+    left: 9px;
+    top:27px;
+   
+}
+.click-search .form-control {
+    width: 50%;
+}
+.click-search span i {
+    top: 86px;
+    right: 1px;
+    padding: 5.3px 12px;
+
+}
+.click-search .form-control {
+    top: 85px;
+    width: 60%;
+    right: 1px;
+}
+.form-control {
+    height: calc(1.5em + .75rem + -7px);
+    
+   
+}
+}
